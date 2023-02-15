@@ -9,13 +9,13 @@ Os exemplos abaixo citados têm caráter referencial e não representam fielment
 
 ## **Visão Geral**
 
-A estrutura do nosso DevOps CBA 2023 é dividida em Spokes e hierarquias, havendo um ambiente para a gestão dos backlogs para cada uma dessas Spokes e uma estrutura de aninhamento ou árvore para expandir o detalhamento e subcategorização das mesmas.
+A estrutura do nosso DevOps 2023 é dividida em Spokes e hierarquias, havendo um ambiente para a gestão dos backlogs para cada uma dessas Spokes e uma estrutura de aninhamento ou árvore para expandir o detalhamento e subcategorização das mesmas.
 
 ***Organização***
 
 ![enter image description here](https://i.imgur.com/7TeG7dj.png)
 
-***Ambiente CBA - EDM e suas Spokes***
+***Ambiente - Data Lake e suas Spokes***
 
 ![enter image description here](https://i.imgur.com/ZxFhLuh.png)
 
@@ -73,6 +73,5 @@ Os prefixos foram idealizados para permitir uma visão geral mais precisa das at
 ***Visão dos Work Items e prefixos para times***
 ![enter image description here](https://i.imgur.com/WoESUQn.png)
 
-*Esta wiki foi desenvolvida com todo carinho e esmero, estando apta a edição para alterações, incrementos, revisão e demais novidades que reflitam decisões à quem for de direito e autoridade. São Paulo, 19 de Janeiro de 2023.*
+*Esta wiki foi desenvolvida com todo carinho, estando apta a edição para alterações, incrementos, revisão e demais novidades que reflitam decisões à quem for de direito e autoridade. São Paulo, 19 de Janeiro de 2023.*
 
-![enter image description here](https://i.imgur.com/5igUhro.png)
